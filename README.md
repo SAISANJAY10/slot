@@ -31,6 +31,7 @@ Execute the program using runserver command.
    </head>
  <body align="center">
  <table border="6" cellspacing="8" cellpadding="10" align="center" bgcolor="CYAN">
+<img src="logo.png" align="center" height="70" width="800">
 <caption><b>SLOT TIMETABLE- SAI SANJAY R(23013189)</b></caption>
 
    <tr>
@@ -83,7 +84,7 @@ Execute the program using runserver command.
 <head>
     <title> subject code </title>
 </head>
- <body bg color= "">
+ <body>
  <table border="6" cellspacing="8" cellpadding="10" align="center">
 
 <tr> 
@@ -129,11 +130,13 @@ Execute the program using runserver command.
 </body>
 </html>
             
+
+            
 ```
 
 
 ## OUTPUT
-![alt text](<web 3.png>)
+![alt text](<Screenshot 2024-03-20 090639.png>)
 
 
 ## RESULT
